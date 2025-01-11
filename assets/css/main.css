@@ -904,8 +904,8 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about .content h3 {
-  font-size: 18.5rem;
-  font-weight: 1000;
+  font-size: 7.5rem;
+  font-weight: 100;
 }
 
 .about .content .fst-italic {
@@ -918,7 +918,7 @@ section,
 }
 
 .about .content ul li {
-  padding: 30px 0 0 0;
+  padding: 12px 0 0 0;
   display: flex;
 }
 
@@ -926,7 +926,7 @@ section,
   color: var(--accent-color);
   margin-right: 0.5rem;
   line-height: 1.2;
-  font-size: 18.5rem;
+  font-size: 14.5rem;
 }
 
 .about .content p:last-child {
