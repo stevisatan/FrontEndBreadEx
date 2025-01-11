@@ -468,7 +468,7 @@ h6 {
 }
 
 .footer .footer-top {
-  padding: 50px 0;
+  padding: 10px 0;
   background-color: color-mix(in srgb, var(--footer-background-color) 90%, white 10%);
 }
 
@@ -478,13 +478,13 @@ h6 {
 }
 
 .footer .footer-about .logo img {
-  max-height: 40px;
+  max-height: 20px;
   margin-right: 6px;
 }
 
 .footer .footer-about .logo span {
-  font-size: 26px;
-  font-weight: 700;
+  font-size: 18px;
+  font-weight: 100;
   letter-spacing: 1px;
   font-family: var(--heading-font);
   color: var(--heading-color);
